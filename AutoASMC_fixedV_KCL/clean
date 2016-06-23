@@ -1,0 +1,9 @@
+rm fort.*
+rm *.o
+rm *.exe
+rm -r __pycache__
+rm *.pyc
+rm b.*
+rm s.*
+rm d.*
+
