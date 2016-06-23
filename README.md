@@ -1,4 +1,4 @@
-Computational code to accompany the submission "Boie S, Chen J, Sanderson MJ, and Sneyd J. The relative contributions of store-operated and voltage-gated Ca2+ channels to the control Ca2+ oscillations in airway smooth muscle."
+Computational code to accompany the submission "Boie S, Chen J, Sanderson MJ, and Sneyd J. *The relative contributions of store-operated and voltage-gated Ca2+ channels to the control Ca2+ oscillations in airway smooth muscle*."
 
 This repository includes all computational code that is needed to obtain the results in the submitted manuscript.
 
